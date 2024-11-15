@@ -1,4 +1,3 @@
-# **E-commerce Insights Dashboard**  
 📊 **Power BI Project for E-commerce Data Analytics**
 
 ## **Overview**
