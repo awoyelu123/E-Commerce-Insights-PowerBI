@@ -49,7 +49,7 @@ The insights provided by this project are crucial for e-commerce companies aimin
 
 ---
 
-## **Insights Uncovered**
+## 🔍 **Insights Uncovered**
 - 📊 **Revenue Growth**: Identified a 25% increase in revenue over the past quarter.
 - 🛍️ **Top Products**: Revealed that 20% of products contribute to 80% of sales (Pareto Principle).
 - 🌍 **Regional Trends**: Highlighted regions with untapped sales potential.
