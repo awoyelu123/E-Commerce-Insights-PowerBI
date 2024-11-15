@@ -1,4 +1,4 @@
-📊 **Power BI Project for E-commerce Data Analytics**
+# 📊 **Power BI Project for E-commerce Data Analytics**
 
 ## **Overview**
 This project demonstrates how to transform raw e-commerce data into actionable insights using Power BI. The dashboard provides a comprehensive view of key performance indicators (KPIs) such as sales trends, customer demographics, and product performance, enabling data-driven decision-making for e-commerce businesses.
